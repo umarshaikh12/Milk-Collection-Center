@@ -1,0 +1,39 @@
+.freg {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.freg label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.freg input,
+.freg textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+.freg button {
+    background-color: #9a7d0a;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.freg button:hover {
+    background-color:  #fad7a0;
+    border-radius: 10px;
+    color: #333;
+}
+
+
+

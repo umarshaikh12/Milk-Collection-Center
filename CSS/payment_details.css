@@ -1,0 +1,64 @@
+/* farmer_details.css */
+
+/* Add any specific styles for Farmer Details page here */
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 12);
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #145a32;
+    color: #fff;
+}
+
+.total {
+    font-weight: bold;
+}
+
+.details {
+    background-color: #f9f9f9;
+}
+
+/* Add more styles as needed */
+
+/* farmer_details.css */
+
+/* Add any specific styles for Farmer Details page here */
+
+/* Selection bar styles */
+form {
+    padding-top: 10px;
+    text-align: center;
+}
+
+label {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+/* Add more styles as needed */

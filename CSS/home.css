@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #f4f4f4; */
+    background-image: url('cow1.jpg');
+    width: 100vw; /* 100% of viewport width */
+    height: 100vh;
+}
+
+.header {
+    background-color:   #145a32;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 30px;
+    overflow: hidden;
+    background-color:   #145a32;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Vertically align items in the center */
+}
+.navbar .head1{
+    display: flex;
+}
+
+.navbar li {
+    display: inline; /* Display list items inline */
+}
+
+.navbar a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color:  #fad7a0;
+    border-radius: 10px;
+    color: #333;
+}
+
+.logout-button {
+    /* Remove float property */
+}
+
+button {
+    background-color: #9a7d0a;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color:  #fad7a0;
+    border-radius: 10px;
+    color: #333;
+}
+
+
+
